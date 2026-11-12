@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eldar.eu.org/sitemap.xml
+Sitemap: https://worldsignal.rweb.site/sitemap.xml

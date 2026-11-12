@@ -83,6 +83,11 @@ footer {
   text-transform: uppercase;
 }
 
+.brand {
+  color: var(--ink);
+  letter-spacing: 0.18em;
+}
+
 .masthead-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 200px;
